@@ -1,4 +1,10 @@
 {
+  "name": "nextjs-14-tutorial",
+  "author": {
+    "name": "jesusrpeinado",
+    "email": "jesusrpeinado@gmail.com",
+    "url": "https://github.com/jesusr"
+  },
   "private": true,
   "scripts": {
     "build": "next build",
